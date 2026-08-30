@@ -1,0 +1,36 @@
+# 模型权重（体积大，不入库）
+models/*.pt
+models/*.onnx
+models/*.engine
+
+# 前端
+web-ui/node_modules/
+web-ui/dist/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# 运行产物
+*.pkl
+cookies.pkl
+logs/*.log
+logs/*.txt
+logs/*.png
+logs/*.json
+
+# 本地真抢配置（含真实链接/账号，勿提交）
+config/local_config.json
+config/*.local.json
+
+# 匹配本机 Chrome 的本地驱动（勿提交）
+chromedriver152.exe
+chromedriver[0-9]*.exe
+chromedriver.exe
+
+.DS_Store
+.idea/
+.vscode/

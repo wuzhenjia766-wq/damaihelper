@@ -1,0 +1,16 @@
+{
+  "damai_concert": {
+    "event_url": "https://detail.damai.cn/item.htm?id=你的演出ID",
+    "damai_url": "https://www.damai.cn/",
+    "auto_buy_time": "2026-08-30T20:00:00",
+    "date": [1, 2],
+    "sess": [1],
+    "price": [1, 2],
+    "tickets": 2,
+    "viewers": [0, 1],
+    "real_name": "",
+    "nick_name": "",
+    "driver_path": "",
+    "proxy": ""
+  }
+}
